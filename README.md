@@ -1,4 +1,3 @@
-XamarinMultiplayerBananas
-=========================
+Tutorial on making multiplayer games using Xamarin and AppWarp.
 
-Cocos2d-xna multiplayer sample using xamarin and appwarp
+
